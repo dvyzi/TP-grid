@@ -36,5 +36,12 @@ p{
     padding: 5vh 5vw;
 }
 
+@media screen and (min-width: 450px) {
+    .containerGreyAndBlue{
+        display: flex;
+        flex-direction: column-reverse;
+    }
+}
+
 
 
